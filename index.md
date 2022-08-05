@@ -8,14 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 JS Calculator is the entry level calculator build using HTML, CSS immersed with the Java Script Functions.
 
-```markdown
-Syntax highlighted code block
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-<html>
-<body>
-  <img src="https://github.com/kaaaaaayvee/jsCalcluator/blob/main/imgs/Project_SC.png">
-  </body>
-</html>
+
 [Link](url) and ![Image](https://github.com/kaaaaaayvee/jsCalcluator/blob/main/imgs/Project_SC.png)
 ```
 
