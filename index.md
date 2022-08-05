@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 JS Calculator is the entry level calculator build using HTML, CSS immersed with the Java Script Functions.
 
-![This is an image](https://github.com/kaaaaaayvee/jsCalcluator/blob/main/assets/sc.png)
+![This is an image](https://images.vexels.com/media/users/3/256358/isolated/preview/f8960d9092fff07c5965844c58734004-playful-calculator-cartoon.png)
 
 
 
